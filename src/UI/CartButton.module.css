@@ -1,0 +1,7 @@
+.CartButton {
+    width: 50%;
+    border: 1px yellow solid;
+    margin-left: 20%;
+    cursor: pointer;
+}
+

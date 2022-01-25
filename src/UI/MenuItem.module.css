@@ -1,0 +1,64 @@
+.menuItem{
+    /* border: 1px solid red; */
+    padding: 1.7%;
+    /* display: flex;
+    flex-direction: column; */
+}
+
+.menuItem h4{
+    margin: 0.4% 0px;
+}
+
+.menuItem p{
+    color: rgb(163, 151, 39);
+    margin: 0px;
+    margin: 0.4% 0px;
+    font-weight: 800;
+}
+
+.menuItem i{
+    margin: 0.4% 0px;
+}
+
+.menuItem hr{
+    margin-top: 2%;
+}
+
+.menuItem div{
+    display: inline-block;
+}
+
+.menuItem div:nth-child(2){
+    float: right;
+    width: 18%;
+    padding: 0px;
+}
+
+.add label{
+    float: right;
+    margin: 0px 7%;
+}
+
+.add input {
+    text-align: center;
+    width: 20%;
+    margin-left: 10%;
+    border-radius: 4px;
+    border: 0.1px solid rgb(187, 186, 186);
+    float: right;
+    margin: 2% 0px;
+}
+
+.add button{
+    display: block;
+    margin-left: 40%;
+    width: 60%;
+    border-radius: 30px;
+    margin-top: 18%;
+    border: 0px;
+    height: 27px;
+    background-color: rgb(116, 47, 15);
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+}

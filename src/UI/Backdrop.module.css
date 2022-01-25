@@ -1,0 +1,15 @@
+.backdrop{
+    background-image: url('../../images/food.jpg');
+    /* border: 1px solid purple; */
+    height: 40%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100% 60%;
+    /* opacity: 0.8; */
+    box-shadow: 0px 5px 10px black;
+    /* border-bottom-left-radius: 50% 100%; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
